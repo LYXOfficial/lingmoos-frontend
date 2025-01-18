@@ -133,5 +133,6 @@ dist
 .DS_Store
 .idea/
 
-yarn.lock
 pnpm-lock.yaml
+
+.vscode/
